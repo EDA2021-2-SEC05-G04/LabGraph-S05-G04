@@ -65,7 +65,7 @@ def printMenu():
     print("7- Estación que sirve a mas rutas: ")
     print("0- Salir")
     print("*******************************************")
-
+    "*******************************************"
 
 def optionTwo(cont):
     print("\nCargando información de transporte de singapur ....")
